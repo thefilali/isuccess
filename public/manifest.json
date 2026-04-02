@@ -1,0 +1,22 @@
+{
+  "name": "achieve — Teambuilding Intelligence",
+  "short_name": "achieve",
+  "description": "ISuccess by Achieve — Teambuilding intelligence platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0A1E",
+  "theme_color": "#4A1D96",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
